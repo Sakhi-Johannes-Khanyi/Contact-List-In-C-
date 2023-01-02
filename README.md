@@ -11,4 +11,5 @@ The Contact List project is designed in ‘C++’ language. This system is based
 
 How To Run the Project?
 In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE). For the project demo, have a look at the video below:
-
+contact me at +2767 834 9132 also for calls and whatsapp
+email address : khanyisj95@gmail.com
